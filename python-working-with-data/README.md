@@ -35,4 +35,5 @@ This module introduces techniques for handling data in Python. It covers reading
 - Work on small projects that involve reading and processing data.
 - Proceed to **APIs and Data Collection**.
 
+
 Happy Coding! 🚀
