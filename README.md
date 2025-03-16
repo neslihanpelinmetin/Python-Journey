@@ -19,14 +19,13 @@ This repository documents my progress through the **Python for Data Science, AI 
 
 ## Progress Tracking
 
-| Module | Topic | Status |
-|--------|------------------------------|----------|
-| 1 | Python Basics | ✅ |
-| 2 | Python Data Structures | ✅ |
-| 3 | Python Programming Fundamentals | ✅ |
-| 4 | Working with Data in Python | ✅ |
-| 5 | APIs and Data Collection | ⏳ |
-| 6 | Final Exam | ❌ |
+| Module | Topic | Description | Status |
+|--------|------------------------------|----------|---------|
+| 1 | Python Basics | [Module-1](./module-1-python-basics/README.md) | ✅ |
+| 2 | Python Data Structures | [Module-2](./module-2-python-data-structures/README.md) | ✅ |
+| 3 | Python Programming Fundamentals | [Module-3](./module-3-python-fundamentals/README.md) | ✅ |
+| 4 | Working with Data in Python | [Module-4](./module-4-python-working-with-data/README.md) | ✅ |
+| 5 | APIs and Data Collection | [Module-5](./module-5-python-apis-data-collection/README.md) | ⏳ | 
 
 ✅ Completed | ⏳ In Progress | ❌ Not Started
 
