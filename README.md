@@ -21,11 +21,11 @@ This repository documents my progress through the **Python for Data Science, AI 
 
 | Module | Topic | Description | Status |
 |--------|------------------------------|----------|---------|
-| 1 | Python Basics | [Module-1](./python-basics/README.md) | ✅ |
-| 2 | Python Data Structures | [Module-2](./python-data-structures/README.md) | ✅ |
-| 3 | Python Programming Fundamentals | [Module-3](./python-fundamentals/README.md) | ✅ |
-| 4 | Working with Data in Python | [Module-4](./python-working-with-data/README.md) | ✅ |
-| 5 | APIs and Data Collection | [Module-5](./python-apis-data-collection/README.md) | ⏳ | 
+| 1 | Python Basics | [Module-1](./1-python-basics/README.md) | ✅ |
+| 2 | Python Data Structures | [Module-2](./2-python-data-structures/README.md) | ✅ |
+| 3 | Python Programming Fundamentals | [Module-3](./3-python-fundamentals/README.md) | ✅ |
+| 4 | Working with Data in Python | [Module-4](./4-python-working-with-data/README.md) | ✅ |
+| 5 | APIs and Data Collection | [Module-5](./5-python-apis-data-collection/README.md) | ⏳ | 
 
 ✅ Completed | ⏳ In Progress | ❌ Not Started
 
