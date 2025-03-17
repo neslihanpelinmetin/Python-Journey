@@ -32,6 +32,6 @@ This module introduces the basics of Python programming. It covers fundamental c
 ## Next Steps
 - Complete all exercises and quizzes for this module.
 - Experiment with Python code snippets to reinforce learning.
-- Proceed to **Python Data Structures**.
+- Proceed to [Python Data Structures](../2-python-data-structures).
 
 Happy Coding! 🚀
