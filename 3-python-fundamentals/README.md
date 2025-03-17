@@ -35,6 +35,6 @@ This module covers fundamental programming concepts in Python, including conditi
 ## Next Steps
 - Complete all exercises and quizzes for this module.
 - Write small programs using loops and functions.
-- Proceed to **Working with Data in Python**.
+- Proceed to [Working with Data in Python](../4-python-working-with-data).
 
 Happy Coding! 🚀
