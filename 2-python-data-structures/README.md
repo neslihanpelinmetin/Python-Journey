@@ -30,6 +30,6 @@ This module explores Python data structures, including lists, tuples, dictionari
 ## Next Steps
 - Complete all exercises and quizzes for this module.
 - Experiment with different data structures in Python.
-- Proceed to **Python Programming Fundamentals**.
+- Proceed to [Python Programming Fundamentals](../3-python-fundamentals).
 
 Happy Coding! 🚀
