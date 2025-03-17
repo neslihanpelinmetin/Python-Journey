@@ -33,7 +33,7 @@ This module introduces techniques for handling data in Python. It covers reading
 ## Next Steps
 - Complete all exercises and quizzes for this module.
 - Work on small projects that involve reading and processing data.
-- Proceed to **APIs and Data Collection**.
+- Proceed to [APIs and Data Collection](../5-python-apis-data-collection).
 
 
 Happy Coding! 🚀
