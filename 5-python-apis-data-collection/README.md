@@ -37,6 +37,10 @@ This module explores how to collect data using APIs and web scraping techniques.
 ## Next Steps
 - Complete all exercises and quizzes for this module.
 - Build a small project using an API for data retrieval.
-- Proceed to **Final Exam and Course Completion**.
+- Do not forget to see and download [Python Cheat Sheet](../Python-Cheat-Sheet.pdf) if you need it.
+
+## This is the end of course, thank you for joining my Python Journey!!
+
+Please feel free to check my other repos from [here](https://github.com/neslihanpelinmetin?tab=repositories).
 
 Happy Coding! 🚀
